@@ -3,7 +3,7 @@ Hospital Management System
 Overview
 The Hospital Management System is a full-stack web application developed using Java (Spring Boot), React.js, and MySQL. This system enables hospitals to digitize patient records, appointments, lab test results, and diagnoses, improving efficiency and data accessibility.
 
-Features
+Features:
 ✅ Patient Management – Store and manage patient records efficiently.
 ✅ Appointments – Schedule and track doctor appointments.
 ✅ Lab Test Results – Securely store and retrieve patient test results.
